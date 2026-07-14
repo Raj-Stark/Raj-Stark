@@ -1,20 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on Spotify Clone<br>🤝 I’m looking for help with Strapi<br>🌱 I’m currently learning React JS<br>💬 Ask me about "DSA , Low Level Design , OOPS"<br>⚡ Fun fact I still watch Doraemon
+# Hi, I'm Raj 👋
 
+Frontend-heavy Software Engineer with **3+ years of experience** building production web applications, SaaS dashboards, HRMS/payroll workflows, and API-integrated frontend modules.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_stark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raj-pal-a052211b5/) 
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI, shadcn/ui
+- **State & APIs:** React Query, Jotai, REST APIs, gRPC-backed APIs, BFF layers, Supabase
+- **Quality & tooling:** Cypress, Vitest, React Testing Library, Vite, Git, monorepo workflows, i18n
+- **Product:** SaaS dashboards, HRMS/payroll, Strapi CMS, Meta WhatsApp Cloud API, webhooks, analytics
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raj-Stark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raj-Stark&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Stark&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Selected Case Studies
 
+### Runa HR - Payroll & HRMS Platform
+Contributed to a YC-backed HRMS product, improving payroll management, payroll configuration, and dashboard workflows with **React.js, Next.js, TypeScript, Material UI, React Query, and Jotai**. Built API-integrated frontend modules connected to microservices through BFF, REST, and gRPC-backed product layers.
 
+### [College Cosmos](https://github.com/College-Cosmos) - Education Counselling Platform
+Designed, built, and launched an admissions platform with **Next.js, TypeScript, shadcn/ui, Tailwind CSS, and Strapi CMS**. Delivered CMS-driven landing pages, lead-generation workflows, and growth instrumentation using Google Tag Manager and Meta Pixel.
 
----
-[![](https://visitcount.itsvg.in/api?id=Raj-Stark&icon=9&color=1)](https://visitcount.itsvg.in)
+### [Glamnexx](https://github.com/Glamnexx) - SaaS for Appointment-led Businesses
+Built product dashboards and WhatsApp automation workflows for salons, spas, tattoo studios, and beauty clinics using **Next.js, TypeScript, Supabase, Meta WhatsApp Cloud API, and webhooks**. Implemented onboarding, template creation, lead management, and AI assistant workflows.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Vehicle Tracking CRM
+Built responsive React interfaces for a map-based CRM, including **Leaflet-powered geofencing and route-drawing workflows**, alongside production UI components, fixes, and feature improvements.
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-a052211b5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_stark)
+
+## 💻 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
